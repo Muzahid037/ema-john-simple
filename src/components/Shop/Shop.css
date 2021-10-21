@@ -1,0 +1,22 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.product-container{
+    margin-left: 150px;
+    border-right: 1px solid rgb(202, 197, 197);
+}
+
+.order-container{
+     margin-left: 10px; 
+}
+
+.order-top{
+    text-align: center;
+}
+
+.order-container button{
+    margin:0 auto;
+    display:block;
+}

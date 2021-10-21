@@ -1,0 +1,37 @@
+.header{
+text-align: center;
+}
+
+.logo{
+    height: 60px;
+    /* margin:2px; */
+}
+
+nav{
+background-color: black;
+line-height: 50px;
+}
+.navb{
+    text-align: left;
+}
+nav a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: white;
+    padding: 10px;
+}
+
+nav a:hover{
+    background-color: #D3D3D3;
+}
+
+.search-bar{
+    background-color: #222222;
+    padding: 20px;
+}
+
+.search-bar input{
+    padding: 5px;
+    width: 1000px;
+    font-size: 15px;
+}
